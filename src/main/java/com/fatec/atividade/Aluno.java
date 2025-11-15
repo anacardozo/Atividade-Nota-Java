@@ -47,7 +47,7 @@ public class Aluno {
         }
         
         else if(media > 9.0 && media <= 10.0){
-            return "Otimo Aproveitamento";
+            return "🎉 Otimo Aproveitamento";
         }
         else{
             return "As notas estao invalidas";
