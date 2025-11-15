@@ -2,7 +2,7 @@
 
 Ana Flávia Cardozo Ribeiro
 
-# O que fazer se seu projeto der erro por causa da versão?
+## O que fazer se seu projeto der erro por causa da versão?
 1° Passo: Abra a pasta project files
 2° Passo: entre no arquivo POM.XML
 3° Passo: procure a seguinte linha: <maven.compiler.release>17</maven.compiler.release>
